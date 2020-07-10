@@ -20,3 +20,10 @@ You can buy the book via these links:
     Japan: https://www.amazon.co.jp/dp/8269211508
 
     Canada: https://www.amazon.ca/dp/8269211508
+
+MacOS setup Steps
+
+Inorder to make the same environment to be setup on macOS run refer to macOS/environment.yml file
+if you get error for libopus at end then activate the ml environment and then install libopus from below link. 
+
+https://anaconda.org/anaconda/libopus
